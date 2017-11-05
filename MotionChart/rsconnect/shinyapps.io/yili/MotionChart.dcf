@@ -1,0 +1,13 @@
+name: MotionChart
+title: MotionChart
+username:
+account: yili
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 232144
+bundleId: 1060098
+url: https://yili.shinyapps.io/MotionChart/
+when: 1509902426.27425
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rapp.history|MotionChart.R
