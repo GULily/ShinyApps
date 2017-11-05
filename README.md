@@ -1,5 +1,5 @@
 # ShinyApps
-Two Shiny applications developed during the semester 2017 Spring as a research assistant working for Prof. Voeten.
+Shiny applications developed during the semester Spring 2017 to Fall 2017 as a research assistant working for Prof. Voeten.
 
 
 For the application UNPredictor, here is a temporary developing link: https://erikvoeten.shinyapps.io/unvotepredictor/.
