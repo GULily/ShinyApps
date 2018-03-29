@@ -4,3 +4,5 @@
 #### UNVoteMap (updated to 2017's votes): https://erikvoeten.shinyapps.io/UNVoteMap/. 
 #### UNPredictor (temp, updated to 2015's votes): https://erikvoeten.shinyapps.io/unvotepredictor/.
  * One can upload the sample files "nktestvote2014.csv" and "nktestvote2015.csv" to test this application.
+#### MotionChart (updated to 2015's votes): https://erikvoeten.shinyapps.io/MotionChart/
+ * To see the motion chart, please make sure that your browser enables flash.
