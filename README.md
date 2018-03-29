@@ -4,5 +4,5 @@
 
 
 
-##### Shiny applications developed during 2017-2018 as a research assistant working for Prof. Voeten at Georgetown University.
+###### Shiny applications developed during 2017-2018 as a research assistant working for Prof. Voeten at Georgetown University.
 
