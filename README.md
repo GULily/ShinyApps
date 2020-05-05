@@ -2,18 +2,18 @@ Shiny applications developed during 2017-2018 as a research assistant working fo
 
 
 ### UNVoteMap (updated to 2017's votes)
-Upgraded [United Nations General Assembly Voting Analyzer](https://yili.shinyapps.io/developing/) by fixing inefficient functionalities and modifying it from static visualization to interactive visualization by using R packages like “plotly”. (Spring 2017) | Tags: plotly, Shiny, R
+Upgraded [United Nations General Assembly Voting Analyzer](https://yili.shinyapps.io/developing/) from static visualization to interactive visualization by using R packages like “plotly”. | __Tags: plotly, Shiny, R__
 
 
-### UNPredictor (temp, updated to 2015's votes)
-Developed United Nations General Assembly Voting Predictor that users can choose different variables to predict the upcoming voting outcomes in 190+ countries. You can download this sample file to test this app. (Spring 2017)  | Tags: prediction, ordered probit regression, plotly, Shiny, R
+### UNPredictor (updated to 2015's votes)
+Developed United Nations General Assembly Voting Predictor that users can choose different variables to predict the upcoming voting outcomes in 190+ countries. You can download this sample file to test this app. | __Tags: prediction, ordered probit regression, plotly, Shiny, R__
  
 _One can upload the sample files "nktestvote2014.csv" and "nktestvote2015.csv" to test this application._
  
  
-### MotionChart (updated to 2015's votes)
-A Motion Chart with two dimensional ideal point estimates from 1946 to 2015. (Fall 2017) | Tags: googleVis, motion chart, Shiny, R
+### [MotionChart](https://yili.shinyapps.io/MotionChart/)
+A motion chart with two-dimension ideal point estimates from 1946 to 2015. | __Tags: googleVis, motion chart, Shiny, R__
 
-_To see the motion chart, please make sure that your browser enables flash._
+___The motion chart needs flash to show the visualiztions, so please make sure that your browser enables flash.___
 
 
