@@ -1,8 +1,8 @@
 Shiny applications developed during 2017-2018 as a research assistant working for Prof. Voeten at Georgetown University.
 
 
-### UNVoteMap (updated to 2017's votes)
-Upgraded [United Nations General Assembly Voting Analyzer](https://yili.shinyapps.io/developing/) from static visualization to interactive visualization by using R packages like “plotly”. | __Tags: plotly, Shiny, R__
+### [UNVoteAnalyzer](https://yili.shinyapps.io/developing/) (updated to 2017's votes)
+Upgraded `United Nations General Assembly Voting Analyzer` from static visualization to interactive visualization by using R packages like “plotly”. | __Tags: plotly, Shiny, R__
 
 
 ### UNPredictor (updated to 2015's votes)
